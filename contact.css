@@ -1,0 +1,152 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.img img{
+    height: auto;
+    width: 180px;
+    margin-top: 6px;
+}
+
+.list ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-left:110px;
+}
+.list li
+   {
+        list-style: none;
+        font-size: 22px;
+        margin-left: 10px;
+    }
+
+
+.main{
+    display: flex;
+    justify-content: center;
+
+}
+.img
+{
+margin-top: 20px;
+margin-left: 6px;
+height: 125px;
+width: 85px;
+}
+
+
+.list{
+margin-left: 420px;
+margin-top: 44px;
+}
+
+
+.contectone{
+    background-color:#6032ff;
+    height: 665px;
+  width: 100%;
+  margin-top: 45px;
+
+}
+.contectone h2{
+    text-align: center;
+    margin-bottom: 45px;
+    color: white;
+    padding-top: 45px;
+    margin-top: 15px;
+    font-size: 40px;
+}
+  .one{
+    height: 218px;
+    width: 550px;
+    border-radius: 20px;
+    border: 1px solid silver;
+    margin-top: 126PX;
+    margin-left: 165px;
+    margin-right: -65px;
+    position: relative;
+    text-align: center;
+    padding-top: 65px;
+    font-size: 20px
+  }  
+
+  .one p{
+    padding-top: 10px;
+  }
+  .oneone img{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    position: absolute;
+    top: -40px;
+    left: 245px;
+}
+.contecttwo{
+    display: flex;
+   
+}
+
+.contectthree{
+    border: 1px solid blue;
+    height: 44px;
+    width: 267px;
+    padding: 8px 20px 4px 47px;
+    background-color: #6032ff;
+    border-radius: 18px;
+    margin-left: 630px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 24px;
+}
+
+.contectthree:hover{
+    color: darkblue;
+}
+
+.contectthree P{ 
+    margin-top: -4px;
+}
+
+.footer{
+    height: 300px;
+    width: 100%;
+    background-color:#6032ff;
+    margin-top: 39px;
+    padding-top: 1px;
+}
+
+.lastone{
+    margin-left: 70px;
+    margin-top: 10px;
+    color: white;
+    font-size: 23px;
+}
+.lastbox i{
+    margin:10px;
+}
+
+.last{
+ display: flex;
+}
+ .lastlist{
+    display: flex;
+    margin-left: 940px;
+ }
+
+
+.lastlist a{
+    text-decoration: none;
+      margin:10px;
+    color: white;
+    font-size: 24px;
+  ;
+}
+
+
+
+  

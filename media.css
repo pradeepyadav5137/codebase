@@ -1,0 +1,90 @@
+@media screen  and (min-width:320px) and (max-width:570px) 
+{
+   .main{
+    display: none;
+   }
+
+   .box{
+    flex-direction: column;
+   }
+
+   .box1{
+    height: unset;
+    width: unset;
+    padding-left: 20px;
+   }
+   .box2 img{
+    height: auto;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+   }
+
+   .logo{
+    flex-direction: column;
+   }
+
+   .logo1 img{
+    height: auto;
+    width: 70%;
+    /* margin: auto; */
+    margin-left: 67px;
+   }
+
+   .main2{
+    flex-direction: column;
+
+   }
+   .one {
+    height: auto;
+    width: 80%;
+    margin:auto;
+    margin-top: 40px;
+   }
+
+   .earth1{
+    flex-direction: column;
+   }
+.earth{
+    height: unset;
+    width: 100%;
+}
+.main5{
+    flex-direction: column;
+}
+.grey{
+    height: unset;
+    width: unset;
+    margin: 0;
+
+}
+.photo{
+    flex-direction: column;
+}
+
+.b1{
+    width: unset;
+}
+
+.photo1{
+    width: unset;
+    height: unset;
+}
+
+.a1{
+    margin: auto;
+    margin-top: 20PX;
+    height: unset;
+    /* width: unset; */
+}
+
+.last{
+    flex-direction: column;
+}
+
+
+.lastfooterr{
+    flex-direction: column;
+    margin: 0;
+}       
+}
